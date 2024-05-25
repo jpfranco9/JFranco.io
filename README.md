@@ -14,7 +14,7 @@ Developed a Tableau dashboard for DHCS's Behavioral Health Bridge Housing progra
 ### Behavioral Health Workforce Development: Google Analytics 
 [PowerBI Dashboard Product Images](/assets/PDFs/BHWD_GA.pdf)
 
-![BHWD GA](/assets/img/BHWDGA.jpeg)
+![BHWD GA](/assets/img/BHWDGA.png)
 
 Connected Google Analytics data to PowerBI to create a dashboard displaying website traffic and engagement. Program team wanted to see how many views and users were engaging with the program website and which pages were being visisted by quarter. 
 
