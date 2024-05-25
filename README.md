@@ -21,7 +21,7 @@ Connected Google Analytics data to PowerBI to create a dashboard displaying webs
 ### Behavioral Health Workforce Development: Google Analytics 
 [PowerBI Dashboard Product Images](/assets/PDFs/BHRR_Capacity.pdf)
 
-![BHWD_Capacity](/assets/img/BHWDCapacity.png)
+![BHWD_Capacity](/assets/img/BHRRCapacity.png)
 
 After surveying organizations, the Behavioral Health Retention and Recruitment team wanted to view a summary report by grantee. Validated and transformed data using Excel and R to develop a PowerBI dashboard displaying results by grantee organization. 
 
