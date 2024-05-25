@@ -30,6 +30,35 @@ After surveying organizations, the Behavioral Health Retention and Recruitment t
 
 ![SPARE_OlderAdults](/assets/img/SPARE_OlderAdults.png)
 
-Analyzed suicide trends among older adults in Riverside County utilizing SPSS. Presented finding at the Suicidie Prevention Coalition Stakeholder meeting. 
+Using California Integrated Vital Records System (Cal-IVRS), Electronic Death Registration System (EDRS), former California's Office of Statewide Health Planning and Development (OSHPD), and Electronic Surveillance System for the Early Notification of Community-Based Epidemics (ESSENCE) to analyze suicide trends among older adults in Riverside County utilizing SPSS. Presented finding at the Suicidie Prevention Coalition Stakeholder meeting. 
 
+### Youth and Suicide in Riverside County
+[Presentation Link](https://www.rivcospc.org/sites/default/files/DATA/pdfs/Youth%20and%20Suicide%20in%20Riverside%20County.pdf)
 
+![SPARE_Youth](/assets/img/SPARE_Youth.png)
+
+Using California Integrated Vital Records System (Cal-IVRS), Electronic Death Registration System (EDRS), former California's Office of Statewide Health Planning and Development (OSHPD), and Electronic Surveillance System for the Early Notification of Community-Based Epidemics (ESSENCE) to analyze suicide trends among youths in Riverside County utilizing SPSS.
+
+### Suicide Prevention Coalition Year One Accomplishments
+[Presentation Link](https://www.rivcospc.org/sites/default/files/DATA/pdfs/Year%20One%20Accomplishments%20Infographic%20NEW%20LOGO%20PDF%20.pdf)
+
+![SPARE_OneYear](/assets/img/SPARE_OneYear.png)
+
+To showcase the accomplishments of Riverside County's Suicide Prevention Coalition, working groups were surveyed and interviewed to gather insights on goals met during the first year.
+
+### Riverside County, CA - Overdose Dashboard
+[Video of Presentation with Animations](/assets/img/RODA_Dashboard.mp4)
+
+![RODA_Dashboard](/assets/img/RODA_Dashboard.png)
+
+The Geographic Information Systems (GIS) driven dashboard displays data on fatal overdoses, opioid related emergency department visits, EMS suspected overdoses and opioid related calls to poison control. Maps are based on census tracts and interactive to allow the user to view more detail when a census tract is selected, including drug specific hot spot mapping overlaid with HPI. Using Healthy Places Index (HPI) scores, the maps provide users with the ability to identify census tracts or areas that are considered least healthy and have high overdose deaths or emergency visits. Demographic data such as gender, age, and race/ethnicity (when available), are also displayed on the dashboard. The dashboard aims to increase access to information for community members; provide an up-to-date picture of data collection operations and; provide a clear and concise overview of information collected in an understandable and accessible format. This dashboard helps local officials improve tracking of opioid-related overdoses and better allocate resources.
+
+### San Bernardino County Local Oral Health Program: Oral Health Needs Assessment
+[Report Link](https://smilesbc.org/wp-content/uploads/sites/40/2020/03/SB-Oral-Health-Needs-Assessment_FINAL-9-27-19.pdf)
+
+![SB_OralHealth](/assets/img/SB_OralHealth.png)
+
+### Thesis: The relationship between body mass index and number of falls experience among older adults in Mexico
+[Publication Link](https://www.proquest.com/openview/5581d63c62af95b6ff1e81af8a9df4b7/1.pdf?pq-origsite=gscholar&cbl=18750)
+
+Utilized SAS to conduct multivariate ordinal regression to examine the association between BMI level and the number of falls experienced in an elderly population of Mexico who participated in the Mexican Health and Aging Study to identify individuals at risk. 
