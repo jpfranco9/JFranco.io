@@ -3,16 +3,18 @@ I am a data analyst with 5+ years of experience. I have worked in government, pr
 
 ## [Resume](/assets/PDFs/FrancoJoselineResume.pdf)
 
-## Education						       		
-- MPH, Biometry (Biostastics)	| San Diego State University (_August 2018_)	 			        		
-- B.S., Applied Mathematics & Statistics | Cal Poly Pomona (_June 2015_)
-
 ## Projects
 ### Behavioral Health Bridge Housing: Tribal Entities Grantee Map
-[Tableau](https://public.tableau.com/app/profile/ds.notifications/viz/DATA-643-BHBH-TribalMapv2024_5_20_17164173451340/TribalEntitiesMapFINAL)
+[Tableau Public Link](https://public.tableau.com/app/profile/ds.notifications/viz/DATA-643-BHBH-TribalMapv2024_5_20_17164173451340/TribalEntitiesMapFINAL)
 
 ![Tribal Map](/assets/img/tribalmap.png)
 
 Developed a Tableau dashboard for DHCS's Behavioral Health Bridge Housing program highlighting tribal entities awarded grants and respective counties served. Users can view tribal entity names, location, grant amount awarded, and counties tribal entities are providing services. Created several iterations using data provided by program team and using DHCS's style guide for consistency. 
 
+### Behavioral Health Workforce Development: Google Analytics 
+[PowerBI Dashboard Product Images](/assets/PDFs/BHWD_GA.pdf)
+
+![BHWD GA](/assets/img/BHWDGA.jpeg)
+
+Connected Google Analytics data to PowerBI to create a dashboard displaying website traffic and engagement. Program team wanted to see how many views and users were engaging with the program website and which pages were being visisted by quarter. 
 
