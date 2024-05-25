@@ -42,7 +42,7 @@ Using California Integrated Vital Records System (Cal-IVRS), Electronic Death Re
 ### Suicide Prevention Coalition Year One Accomplishments
 [Presentation Link](https://www.rivcospc.org/sites/default/files/DATA/pdfs/Year%20One%20Accomplishments%20Infographic%20NEW%20LOGO%20PDF%20.pdf)
 
-![SPARE_OneYear](/assets/img/SPARE_OneYear.png)
+![SPARE_YearOne](/assets/img/SPARE_YearOne.png)
 
 To showcase the accomplishments of Riverside County's Suicide Prevention Coalition, working groups were surveyed and interviewed to gather insights on goals met during the first year.
 
@@ -52,6 +52,7 @@ To showcase the accomplishments of Riverside County's Suicide Prevention Coaliti
 ![RODA_Dashboard](/assets/img/RODA_Dashboard.png)
 
 The Geographic Information Systems (GIS) driven dashboard displays data on fatal overdoses, opioid related emergency department visits, EMS suspected overdoses and opioid related calls to poison control. Maps are based on census tracts and interactive to allow the user to view more detail when a census tract is selected, including drug specific hot spot mapping overlaid with HPI. Using Healthy Places Index (HPI) scores, the maps provide users with the ability to identify census tracts or areas that are considered least healthy and have high overdose deaths or emergency visits. Demographic data such as gender, age, and race/ethnicity (when available), are also displayed on the dashboard. The dashboard aims to increase access to information for community members; provide an up-to-date picture of data collection operations and; provide a clear and concise overview of information collected in an understandable and accessible format. This dashboard helps local officials improve tracking of opioid-related overdoses and better allocate resources.
+*Note: I developed the first iteration of the dashboard between 2020 and 2021, the current dashboard may not be the same as the video and images above.
 
 ### San Bernardino County Local Oral Health Program: Oral Health Needs Assessment
 [Report Link](https://smilesbc.org/wp-content/uploads/sites/40/2020/03/SB-Oral-Health-Needs-Assessment_FINAL-9-27-19.pdf)
