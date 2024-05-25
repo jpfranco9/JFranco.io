@@ -3,14 +3,14 @@ I am a data analyst with 5+ years of experience. I have worked in government, pr
 
 [**Resume**] (/assets/PDFs/Franco, Joseline Resume.pdf)
 
-### Education
-MPH Biometry (Biostatistics) | San Diego State University | Aug 2016 – Aug 2018
+## Education						       		
+- MPH, Biometry (Biostastics)	| San Diego State University (_August 2018_)	 			        		
+- B.S., Applied Mathematics & Statistics | Cal Poly Pomona (_June 2015_)
+- 
+## Projects
+### Behavioral Health Bridge Housing: Tribal Entities Grantee Map
+[Tableau](https://public.tableau.com/app/profile/ds.notifications/viz/DATA-643-BHBH-TribalMapv2024_5_20_17164173451340/TribalEntitiesMapFINAL)
 
-[Thesis: The Relationship Between Body Mass Index and Number of Falls Experienced Among Older Adults in Mexico] (https://www.proquest.com/openview/5581d63c62af95b6ff1e81af8a9df4b7/1.pdf?pq-origsite=gscholar&cbl=18750)
+Developed Tableau dashboard for DHCS's Behavioral Health Bridge Housing program highlighting tribal entities awarded grants and respective counties served. 
 
-B.S. Applied Math & Statistics | Cal Poly Pomona | Sep 2011 – June 2015
-
-### Projects
-[Behavioral Health Bridge Housing: Tribal Entities Grantee Map] (https://public.tableau.com/app/profile/ds.notifications/viz/DATA-643-BHBH-TribalMapv2024_5_20_17164173451340/TribalEntitiesMapFINAL)
-(./assets/img/tribalmap.png)
 
