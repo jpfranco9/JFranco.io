@@ -47,7 +47,7 @@ Using California Integrated Vital Records System (Cal-IVRS), Electronic Death Re
 To showcase the accomplishments of Riverside County's Suicide Prevention Coalition, working groups were surveyed and interviewed to gather insights on goals met during the first year.
 
 ### Riverside County, CA - Overdose Dashboard
-[Presentation Link](/assets/PDFs/RODA_Dashboard.pdf) [Demo 1](/assets/img/Demo_1.mp4) [Demo 2](/assets/img/Demo_2.mp4) [Demo 3](/assets/img/Demo_3.mp4) [Demo 4](/assets/img/Demo_4.mp4) [Demo 5](/assets/img/Demo_5.mp4)
+[Presentation Link](/assets/PDFs/RODA_Dashboard.pdf) | [Demo 1](/assets/img/Demo_1.mp4) | [Demo 2](/assets/img/Demo_2.mp4) | [Demo 3](/assets/img/Demo_3.mp4) | [Demo 4](/assets/img/Demo_4.mp4) | [Demo 5](/assets/img/Demo_5.mp4)
 
 ![RODA_Dashboard](/assets/img/RODA_Dashboard.png)
 
