@@ -4,8 +4,6 @@ I am a data analyst with 5+ years of experience. I have worked in government, pr
 
 ## [Resume](/assets/PDFs/FrancoJoselineResume.pdf)
 
-* * *
-
 # Projects
 * * *
 ### Behavioral Health Bridge Housing: Tribal Entities Grantee Map
