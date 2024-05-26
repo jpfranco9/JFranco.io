@@ -62,6 +62,8 @@ The Geographic Information Systems (GIS) driven dashboard displays data on fatal
 
 ![SB_OralHealth](/assets/img/SB_OralHealth.png)
 
+Analyzed oral health data from multiple primary and secondary sources in San Beenardino County using SAS and ArcGIS to complete a needs assessment evaluation.  
+
 ### Thesis: The relationship between body mass index and number of falls experience among older adults in Mexico
 [Publication Link](https://www.proquest.com/openview/5581d63c62af95b6ff1e81af8a9df4b7/1.pdf?pq-origsite=gscholar&cbl=18750)
 
