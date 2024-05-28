@@ -73,7 +73,7 @@ I am a data analyst with 5+ years of experience. I have worked in government, pr
 ### San Bernardino County Local Oral Health Program: Oral Health Needs Assessment
 [Report Link](https://smilesbc.org/wp-content/uploads/sites/40/2020/03/SB-Oral-Health-Needs-Assessment_FINAL-9-27-19.pdf)
 
-**Overview:** Analyzed oral health data from multiple primary and secondary sources in San Beenardino County using SAS and ArcGIS to complete a needs assessment evaluation.  
+**Overview:** Analyzed oral health data from multiple primary and secondary sources in San Bernardino County using SAS and ArcGIS to complete a needs assessment evaluation.  
 
 **Technical Skills:** SAS, ArcMAP
 
