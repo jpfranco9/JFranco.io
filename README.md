@@ -1,6 +1,12 @@
 # About Me
 * * *
-I am a data analyst with 5+ years of experience. I have worked in government, private, and non-profit organizations focusing on public health and behavioral health. I specialize in transforming complex datasets into clear and actionable insights, I enjoy developing visualizations that convey the data's story. I am proficient in R, SPSS, SAS, SQL, PowerBI, Tableau, and ArcGIS; additionally, I have developed surveys and implemented them on platforms such as Qualtrics, QuestionPro, and Google Forms. I am committed to continuous learning and innovation in data analytics, always seeking new programs and skills to learn and improve data products. I have recently completed a UI UX Bootcamp to enhance my design skills and develop visualizations that improve how users interpret and interact with data, ensuring accessibility, engagment, and enhancing comprehension. Throughout my career, I have successfully collaborated with diverse teams and engaged with stakeholders at all levels to ensure that data-driven solutions align with program goals. My passion lies in making data accessible and easy to understand for all users regardless of their experience in data. My job is to take data of all shapes and sizes and interpret them into visualizations that make sense to the user! 
+I am a data analyst with over 5 years of experience in government, private, and non-profit sectors, specializing in public and behavioral health. I excel at transforming complex datasets into clear, actionable insights and enjoy developing visualizations that tell compelling data stories.
+
+Proficient in R, SPSS, SAS, SQL, PowerBI, Tableau, and ArcGIS, I also have expertise in survey development and implementation on platforms like Qualtrics, QuestionPro, and Google Forms. Committed to continuous learning and innovation, I constantly seek new tools and skills to enhance data products. Recently, I completed a UI/UX Bootcamp to enhance my design skills, focusing on creating visualizations that improve user interaction and comprehension.
+
+Throughout my career, I have successfully collaborated with diverse teams and engaged with stakeholders at all levels, ensuring data-driven solutions align with program goals.
+
+My passion lies in making data accessible and easy to understand for all users, regardless of their experience with data. My job is to interpret data of all shapes and sizes into visualizations that make sense to the user, ensuring accessibility, engagement, and enhanced comprehension.
 
 ## [Resume](/assets/PDFs/Resume20240527.pdf)
 
